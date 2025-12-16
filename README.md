@@ -504,7 +504,7 @@ Open issue with:
 - [Sensor Artifacts](https://www.dpreview.com/articles/4888148595/what-causes-image-noise) - Understanding camera noise
 
 ### Tools & APIs
-- [Grok API Docs](https://docs.x.ai/) - Vision API documentation
+- [Grok API Docs]([https://docs.x.ai/](https://docs.x.ai/docs/api-reference#chat-completions) - Vision API documentation
 - [Vercel Docs](https://vercel.com/docs) - Deployment platform
 - [GitHub Docs](https://docs.github.com) - Version control
 
@@ -524,7 +524,7 @@ Open issue with:
 
 - **GitHub Issues**: https://github.com/rmkenv/pca_ai_checker/issues
 - **Live App**: https://pcaaichecker.vercel.app/
-- **Grok API Help**: https://docs.x.ai/
+- **Grok API Help**: https://docs.x.ai/](https://docs.x.ai/docs/api-reference#chat-completions
 - **Report Security Issues**: Please contact privately
 
 ---
@@ -570,34 +570,3 @@ Open issue with:
 | **Image Types Supported** | Any format (JPG, PNG, WebP, GIF, BMP, TIFF, etc.) |
 
 ---
-
-## 🚀 Deploy Your Own
-
-### 1-Click Deploy to Vercel
-```
-https://vercel.com/new/clone?repository-url=https://github.com/rmkenv/pca_ai_checker
-```
-
-### Manual Deploy
-1. Fork repo on GitHub
-2. Go to https://vercel.com/new
-3. Connect GitHub account
-4. Select this repo
-5. Click "Deploy"
-6. Your app is live! 🎉
-
-### Custom Domain
-1. In Vercel dashboard, click project
-2. Go to Settings → Domains
-3. Add your custom domain
-4. Update DNS records as directed
-5. Domain configured!
-
----
-
-**Built with ❤️ for security, research, and open science**
-
-Last updated: December 2025  
-Version: 1.0.0  
-Status: Production Ready ✅  
-Works on: **Any Imagery** 🖼️
