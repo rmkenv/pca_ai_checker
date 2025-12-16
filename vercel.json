@@ -1,0 +1,1 @@
+{"buildCommand": "echo 'Static site'", "outputDirectory": ".", "installCommand": "echo 'No deps'", "rewrites": [{"source": "/(.*)", "destination": "/index.html"}]}
